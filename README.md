@@ -11,4 +11,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Songkunda&show_icons=true&theme=chartreuse-dark&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Songkunda" />
+<img src="https://codeium.com/profile/songkunda/card.png" />
